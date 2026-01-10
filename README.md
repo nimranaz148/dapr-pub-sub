@@ -2,6 +2,8 @@
 
 A professional implementation of event-driven architecture using Dapr's Pub/Sub building block with Python.
 
+> Last updated: January 10, 2026
+
 ## Overview
 
 This project demonstrates a decoupled, scalable pub/sub messaging system using:
